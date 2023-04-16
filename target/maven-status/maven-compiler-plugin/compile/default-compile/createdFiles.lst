@@ -1,0 +1,4 @@
+Models\Livre.class
+helpclass\NewHibernateUtil.class
+Models\Administrateur.class
+com\mycompany\tp_jsf_hibernate\Main.class
